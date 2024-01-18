@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.primevideo-container {
+  background-color: #000000;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+.prime-video-image {
+  width: 100%;
+  height: 40%;
+}
